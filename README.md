@@ -24,3 +24,7 @@
 <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=francescocopelli&show_icons=true&locale=en" alt="francescocopelli" /></a>
 <a>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=francescocopelli&" alt="francescocopelli" /></a>
+
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
