@@ -5,9 +5,9 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=francescocopelli&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&theme=onedark&column=-1" alt="francescocopelli" /></a> </p>
 
-- 🔭 I’m currently working on [Exchange Student Program](https://exchange-student-program.herokuapp.com/)
+- 🔭 I’m currently working on [Exchange Student Program](https://esp.francescocopelli.it/)
 
-- 👨‍💻 All of my projects are available at [Francesco Copelli](https://francesco-copelli.herokuapp.com/)
+- 👨‍💻 All of my projects are available at [Francesco Copelli](https://francescocopelli.it/)
 
 - 📫 How to reach me **francescocopelli28@gmail.com**
 
