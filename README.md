@@ -29,13 +29,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 December 2022 - To: 27 January 2023
-
-Total Time: 11 mins
-
-Java                   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀   81.71 %
-XML                    ⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   18.18 %
-HTML                   ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.11 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
