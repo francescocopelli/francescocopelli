@@ -29,7 +29,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 02 January 2023 - To: 01 February 2023
+
+Total Time: 1 hr 2 mins
+
+Java                   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 %
 ```
 
 <!--END_SECTION:waka-->
