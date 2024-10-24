@@ -5,6 +5,12 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=francescocopelli&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&theme=onedark&column=-1" alt="francescocopelli" /></a> </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
 <!---
 - 🔭 I’m currently working on [Exchange Student Program](https://esp.francescocopelli.it/)
 
